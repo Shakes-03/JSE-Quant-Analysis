@@ -20,7 +20,7 @@ This repository contains a Python-based quantitative research project focusing o
 ![Backtest Results](SOL.JO%20Backtest%20Results.png)
 
 ### Risk Stress Test (Monte Carlo)
-![Monte Carlo Simulation](edited-image.png)
+![Monte Carlo Simulation](monte_carlo_result.png)
 
 ## 🚀 How to Run
 1. Clone the repository.
