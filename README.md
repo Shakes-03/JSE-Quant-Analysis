@@ -17,7 +17,7 @@ This repository contains a Python-based quantitative research project focusing o
 * **Volatility Analysis**: Determined that while the strategy is high-yield, the extreme variance requires rigorous position-sizing and risk-management protocols.
 
 ### Strategy Performance
-![Backtest Results]()
+![Backtest Results](SOL.JO%20Backtest%20Results.png)
 
 ### Risk Stress Test (Monte Carlo)
 ![Monte Carlo Simulation](edited-image.png)
