@@ -131,7 +131,7 @@ print("\n" + "="*30)
 print(f"QUANT RESULT: Correlation is {correlation:.4f}")
 print("="*30)
 
-# 3. Add a visual guide (Optional but helpful)
+# 3. Add a visual guide
 if correlation > 0.75:
     print("ANALYSIS: High Correlation. Geopolitics & Oil are the primary drivers.")
 elif correlation > 0.40:
@@ -185,7 +185,7 @@ plt.legend()
 plt.grid(True, alpha=0.3)
 plt.show()
 
-# --- 4. THE QUANT GRADUATION MATH ---
+# --- 4. THE QUANT MATH ---
 matrix = data.corr()
 print("\n" + "="*40)
 print("--- THE MULTI-FACTOR CORRELATION MATRIX ---")
